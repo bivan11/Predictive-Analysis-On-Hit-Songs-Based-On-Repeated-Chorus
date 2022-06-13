@@ -1,0 +1,13 @@
+Pillow==8.2.0
+librosa==0.9.1
+SoundFile==0.10.3.post1
+numpy==1.21.5
+st-annotated-text==3.0.0
+pandas==1.4.2
+scikit_learn==1.1.1
+scipy==1.8.0
+yt-dlp==2022.4.8
+pychorus==0.1
+streamlit==1.9.0
+protobuf~=3.19.0
+
